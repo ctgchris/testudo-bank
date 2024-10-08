@@ -1,4 +1,4 @@
 # testudo-bank
-Banking Application for educational purposes. Built for CMSC 389G: What to do After Landing a SWE Job.
+Banking Application for educational purposes.
 
 Switch the branches to see which task are completed
